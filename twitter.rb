@@ -4,7 +4,7 @@ require 'optparse'
 CONSUMER_KEY = '' # insert
 CONSUMER_SECRET = '' # insert
 ACCESS_TOKEN = '' # insert
-ACCESS_TOKEN_SECRET = '' # insertZz
+ACCESS_TOKEN_SECRET = '' # insert
 
 options = {}
 
