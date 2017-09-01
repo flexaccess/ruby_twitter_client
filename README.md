@@ -12,7 +12,7 @@ Create API application: <br />
 Show all commands:<br>
 <code>twitter.rb -h</code>
 
-Send a tweet:<br>
+Send a twit:<br>
 <code>twitter.rb --twit "MESSAGE"</code>
 
 Show timeline user:<br>
