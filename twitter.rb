@@ -29,7 +29,7 @@ client = Twitter::REST::Client.new do |config|
 end
 
 if options.key?(:twit)
-  client.update(options[:twit])
+  client.update(options[:twit])[0..140]
   i = 0
   print "Posting "
   loop do
