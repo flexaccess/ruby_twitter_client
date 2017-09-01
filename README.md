@@ -6,8 +6,8 @@ Show all commands:<br>
 Send a tweet:<br>
 <code>twitter.rb --tweet "MESSAGE"</code>
 
-Show a timeline user:<br>
+Show timeline user:<br>
 <code>twitter.rb --timeline USER_NAME</code>
 
-Show a your timeline:<br>
+Show your timeline:<br>
 <code>twitter.rb</code>
